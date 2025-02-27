@@ -1,0 +1,32 @@
+Date,IsWeekday,IsHoliday,EarlyDutyInvestigator,EarlyOperationsOfficer,LateDutyInvestigator,LateOperationsOfficer
+03/01/2025,0,0,NONE,NONE,NONE,NONE
+03/02/2025,0,0,NONE,NONE,NONE,NONE
+03/03/2025,1,0,"Harris, Brian","Hernandez, Daniel","Thompson, Ryan","Anderson, James"
+03/04/2025,1,0,"White, Stephanie","Miller, Jessica","Chavez, Steven","Lopez, Amanda"
+03/05/2025,1,0,"Reed, Henry","Lee, Joshua","Price, Joshua","Gonzalez, Joseph"
+03/06/2025,1,0,"Bennet, Emily","Taylor, Andrew","Hughes, Alexa","Garcia, Ashley"
+03/07/2025,1,0,"Torres, Robert","Davis, Matthew","Flores, Rachel","Wilson, Michelle"
+03/08/2025,0,0,NONE,NONE,NONE,NONE
+03/09/2025,0,0,NONE,NONE,NONE,NONE
+03/10/2025,1,0,"Patel, Adam","Thomas, Megan","Wood, Megan","Jackson, Nicholas"
+03/11/2025,1,0,"Watson, Nathan","Martinez, Jennifer","Morgan, Benjamin","Perez, Lauren"
+03/12/2025,1,0,"Gray, Ryan","Moore, Samantha","Baker, Christina","Martin, Kimberly"
+03/13/2025,1,0,"Cruz, Richard","Rodriguez, Christopher","Ortiz, Natalie","Ruiz, Charles"
+03/14/2025,1,0,"Edwards, Anna","Wilson, Michelle","Long, Isaiah","Ruiz, Charles"
+03/15/2025,0,0,NONE,NONE,NONE,NONE
+03/16/2025,0,0,NONE,NONE,NONE,NONE
+03/17/2025,1,0,"Scott, Emily","Hernandez, Daniel","Mendoza, Sarah","Jackson, Nicholas"
+03/18/2025,1,0,"Castillo, Anthony","Taylor, Andrew","Roberts, Katherine","Lopez, Amanda"
+03/19/2025,1,0,"Stewart, Timothy","Rodriguez, Christopher","Green, Timothy","Gonzalez, Joseph"
+03/20/2025,1,0,"Powell, Mason","Davis, Matthew","Ward, Samuel","Garcia, Ashley"
+03/21/2025,1,0,"Alvarez, Emma","Martin, Kimberly","Peterson, Aaron","Miller, Jessica"
+03/22/2025,0,0,NONE,NONE,NONE,NONE
+03/23/2025,0,0,NONE,NONE,NONE,NONE
+03/24/2025,1,0,"Sanders, Isabel","Thomas, Megan","Nguyen, Alexandra","Martinez, Jennifer"
+03/25/2025,1,0,"Evans, Nicholas","Perez, Lauren","James, Michael","Anderson, James"
+03/26/2025,1,0,"Howard, Zachary","Lee, Joshua","Hill, Daniel","Moore, Samantha"
+03/27/2025,1,0,"Kelly, Madison","Rodriguez, Christopher","Cooper, Anna","Wilson, Michelle"
+03/28/2025,1,0,"Murphy, Amy","Martin, Kimberly","Brooks, Abigail","Garcia, Ashley"
+03/29/2025,0,0,NONE,NONE,NONE,NONE
+03/30/2025,0,0,NONE,NONE,NONE,NONE
+03/31/2025,1,1,HOLIDAY,HOLIDAY,HOLIDAY,HOLIDAY
